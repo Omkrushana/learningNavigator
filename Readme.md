@@ -55,7 +55,7 @@ Example configuration (`src/main/resources/application.properties`):
 spring.application.name=navigator
 server.port=8080
 
-# DB Configuration
+## DB Configuration
 spring.datasource.url=jdbc:mysql://localhost:3306/navigator1
 spring.datasource.username=root
 spring.datasource.password=h096388@H
